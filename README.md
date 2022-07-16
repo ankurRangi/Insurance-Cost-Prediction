@@ -2,7 +2,7 @@
 
 **Research Question:**
 
-Predicting the insurance cost of all the people based on various independent variables available in the dataset from kaggle
+Predicting the insurance cost of all the people based on various independent variables available in the dataset from kaggle using the Regression Model
 
 Meta Data:
 
