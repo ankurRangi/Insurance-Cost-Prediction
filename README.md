@@ -2,7 +2,7 @@
 
 **Research Question:**
 
-Predicting the medical cost put by insurance company of all the people based on various independent variables available in the dataset from kaggle using the Regression Model
+Predicting the medical cost put by insurance company to all of the people based on various independent variables available in the dataset from kaggle using the Regression Model
 
 Meta Data:
 
